@@ -1,0 +1,12 @@
+    @charset "UTF-8";
+
+    body {
+        background-color: white;
+        color: rgb(0,0,0);
+    }
+    p { text-align: justify;
+        text-indent: 50px;
+    }
+
+    /* Formatação de Imagens com legendas */
+
