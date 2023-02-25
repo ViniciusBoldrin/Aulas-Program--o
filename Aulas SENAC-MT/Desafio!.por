@@ -18,7 +18,7 @@ programa {
     minutosperdidos= totalcigarros*10
     diasperdidos= minutosperdidos/1440
 
-    escreva("Voce perdeu", diasperdidos "dias perdidos!")
+    escreva("\nVoce perdeu: ", diasperdidos "dias perdidos")
 
 
 
